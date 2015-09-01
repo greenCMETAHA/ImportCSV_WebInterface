@@ -1,0 +1,7 @@
+Ivanov;Ivan;Ivan2000;ivan@mail.ru;12345
+Petrov;Petr;Petr2001;pertovPetr@tut.by;147852369
+Sidorov;Alexander;Immanuilovich;pupsik@rambler.ru;111111
+Рабонович;Федор;Петрович;aaa@by.by;765-23-12
+Кириенко;;;;123-12-12
+Путин;В;Vova;kreml@qqq.ru;111-111-11
+;Гриша;Grisha;G@u.by;911
